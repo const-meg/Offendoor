@@ -44,10 +44,10 @@ El brazo debe imprimirse con una escala de 0.95, al igual que las tapas, para qu
 Figura 4: Configuración en Ultimaker Cura a) soportes, b) calidad y perímetro.
 La configuración debe ser para cada una de las impresoras utilizadas, las que se proponen son para una impresora Anet A8, pero para cada una de las impresoras se deben conocer cuales son los ángulos soportados por la impresora y cuales son los tamaños de impresión.
 
-El montaje en la puerta es:
+El montaje en la puerta es en tres pasos:
 
-Montar el soporte, acomodandolo en la manilla para que queden ambas caras apoyadas.
-Colocar las tapas en la parte inferior del soporte, fijandolo a la manilla
-Colocar el brazo al soporte. El brazo se puede retirar para realizar lavados.
+1)Montar el soporte, acomodandolo en la manilla para que queden ambas caras apoyadas.
+2)Colocar las tapas en la parte inferior del soporte, fijandolo a la manilla
+3)Colocar el brazo al soporte. El brazo se puede retirar para realizar lavados.
 
 Por último para hacer uso correcto del dispositivo, tan solo se debe posicionar el antebrazo de forma horizontal y colocar el codo en la apertura destinada para ello, luego realizar un movimiento firme y controlado hacia al lado y hacia abajo siguiendo la trayectoria natural de la apertura del codo, una vez desbloqueado el mecanismo de cerradura de la puerta se tira/empuja según corresponda el sentido de apertura de la puerta, se libera el codo del dispositivo y se procede a continuar como de costumbre.
